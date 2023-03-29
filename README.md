@@ -18,8 +18,8 @@
 </table>
 
 #### Full-Stack/Blockchain Dev
-- Have rich experience in building smart contracts with solidity and rust for Defi, Dex and NFT projects.
-- Proficient in web/web3 development on frontend and backend.
+- Have rich experience in building smart contracts with Solidity and Rust for Defi, Dex and NFT projects.
+- Proficient in web2/web3 development on frontend and backend.
 - Familiar with Web Hosting and DevOps including CI/CD, Docker, Git, Jira, Trello, etc.
 - Ability to quickly and independently learn and adapt to new technologies and coding skills.
 - Enjoy challenges of solving issues and mining data to find out the best solution.
